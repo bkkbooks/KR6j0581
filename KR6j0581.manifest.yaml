@@ -28,9 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0581_000.yaml, hash: 'sha256:7afcb4909eda7bab7683b1037ac7605b3d0868a5639e0bc3a57aa12cd8a4360b'}
-  - {seq: 1, filename: KR6j0581_001.yaml, hash: 'sha256:03d1cb41531ce8a370699a55cfa5871fdd1a38f1f4fb7dcdde2633d4c8fe25ae'}
+  - {seq: 1, filename: KR6j0581_001.yaml, hash: 'sha256:996f1b0ea14a9c163bd376f93aa3c39cd3533e6c31e9991c9cb0d5b577bea536'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0581_001.markers.yaml, hash: 'sha256:f57e56f2bdc71cc5e2481a354a0eef6f33bb01a03c3db5a5f435d833782de96e'}
+  - {seq: 0, role: markers, filename: assets/KR6j0581_000.markers.yaml, hash: 'sha256:223b29bc3fce40cfc575a4803d602b0975bfdd9d87ed6eb2c373b9a6a926ac51'}
+  - {seq: 1, role: markers, filename: assets/KR6j0581_001.markers.yaml, hash: 'sha256:172a2176da3d8eefbf542f8a660c0b93c9d407af3a2c4c32313fb9546b74ff51'}
 table_of_contents:
 - ref:
     seq: 1
@@ -42,7 +43,4 @@ table_of_contents:
   label: 佛說持句神呪經
   type: juan
   level: 1
-hash: sha256:83e4d56792afcde8198dd4baef319ceeb146691b99a8e1e5c682dd735c479967
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:090fa20f14565ec8b242545b3f4653c5e035b9bd6ac5c8192de18b11b36948d4
